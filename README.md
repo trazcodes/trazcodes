@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" length="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
+<img align="center" alt="Coding" height="400" width="1000" src="https://github.com/trazcodes/trazcodes/blob/main/Main.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A passionate full stack developer-in-training from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
